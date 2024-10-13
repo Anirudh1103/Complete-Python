@@ -50,4 +50,24 @@ This repository contains complete python guide you need with notes.<br>
     <td>11</td>
     <td>Inheritence and more on OOP's</td>
   </tr>
+    </tr>
+    <tr>
+    <td>12</td>
+    <td>Advanced Python-1</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>13</td>
+    <td>Advanced Python-2</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>14</td>
+    <td>Mini Project</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>15</td>
+    <td>Major Project</td>
+  </tr>
 </table>
