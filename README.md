@@ -1,9 +1,6 @@
 <h3>This repository contains complete python guide you need with notes.</h3><br>
 <p>Notes will be added soon to this repo</p>
 <hr>
-<h1 align="center" >Basics of Python</h1>
-<h3>This repository contains complete python guide you need with notes.</h3><br>
-<p>Notes will be added soon</p><hr>
 <h3 align="center" >Python Syllabus: </h3>
 <table align="center">
   <tr>
