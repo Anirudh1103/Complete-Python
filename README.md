@@ -1,4 +1,5 @@
-This repository contains complete python guide you need with notes.<br>
+<h1>This repository contains complete python guide you need with notes.</h1><br>
+<p>Notes will be added soon to this repo</p>
 
 <h1 align="center" >Basics of Python</h1>
 <table align="center">
