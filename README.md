@@ -64,7 +64,7 @@
     </tr>
     <tr>
     <td>14</td>
-    <td><a href="https://github.com/Anirudh1103/Complete-Python/tree/main/Chapter%210">Mini Project-1</a></td>
+    <td><a href="https://github.com/Anirudh1103/Complete-Python/tree/main/Mini%20Project%201">Mini Project-1</a></td>
   </tr>
     </tr>
         <tr>
