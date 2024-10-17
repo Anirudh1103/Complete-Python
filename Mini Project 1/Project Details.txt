@@ -7,3 +7,9 @@ we will be using:
 0  -> GUN
 
 the above values will be used to replicate hands we have to write logic for the game
+
+Game Rules: 
+-Snake vs. water: Snake wins because it drinks the water 
+-Water vs. gun: Water wins because the gun drowns 
+-Gun vs. snake: Gun wins because it kills the snake 
+-Draw: If both players choose the same object, the game is a draw
