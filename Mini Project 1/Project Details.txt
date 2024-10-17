@@ -1,0 +1,9 @@
+We will be making SNAKE, WATER or GUN game as our project using all the knowledge we have till now.
+Its going to be a simple project nothing complex.
+
+we will be using:
+1  -> SNAKE
+-1 -> WATER
+0  -> GUN
+
+the above values will be used to replicate hands we have to write logic for the game
