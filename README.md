@@ -13,35 +13,35 @@
   </tr>
   <tr>
     <td>2</td>
-    <td><a href="">Variables, Data types, Operators, Input</a></td>
+    <td><a href="https://github.com/Anirudh1103/Complete-Python/tree/main/Chapter%202">Variables, Data types, Operators, Input</a></td>
   </tr>
     <tr>
     <td>3</td>
-    <td><a href="">Strings</a></td>
+    <td><a href="https://github.com/Anirudh1103/Complete-Python/tree/main/Chapter%203">Strings</a></td>
   </tr>
     <tr>
     <td>4</td>
-    <td><a href="">Lists & Tuples</a></td>
+    <td><a href="https://github.com/Anirudh1103/Complete-Python/tree/main/Chapter%204">Lists & Tuples</a></td>
   </tr>
     <tr>
     <td>5</td>
-    <td> <a href="">Dictionary & Sets </a></td>
+    <td> <a href="https://github.com/Anirudh1103/Complete-Python/tree/main/Chapter%205">Dictionary & Sets </a></td>
   </tr>
     <tr>
     <td>6</td>
-    <td><a href="">Conditional Expression </a></td>
+    <td><a href="https://github.com/Anirudh1103/Complete-Python/tree/main/Chapter%206">Conditional Expression </a></td>
   </tr>
     <tr>
     <td>7</td>
-    <td><a href="">Loops in python  </a></td>
+    <td><a href="https://github.com/Anirudh1103/Complete-Python/tree/main/Chapter%207">Loops in python  </a></td>
   </tr>
     <tr>
     <td>8</td>
-    <td>Functions and Recursions</a></td>
+    <td><a href="https://github.com/Anirudh1103/Complete-Python/tree/main/Chapter%208">Functions and Recursions</a></td>
   </tr>
     <tr>
     <td>9</td>
-    <td>File Handling</a></td>
+    <td><a href="">File Handling</a></td>
   </tr>
     <tr>
     <td>10</td>
@@ -64,7 +64,7 @@
     </tr>
     <tr>
     <td>14</td>
-    <td><a href="">Mini Project-1</a></td>
+    <td><a href="https://github.com/Anirudh1103/Complete-Python/tree/main/Chapter%209">Mini Project-1</a></td>
   </tr>
     </tr>
         <tr>
