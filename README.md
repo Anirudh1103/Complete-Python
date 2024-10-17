@@ -41,7 +41,7 @@
   </tr>
     <tr>
     <td>9</td>
-    <td><a href="">File Handling</a></td>
+    <td><a href="https://github.com/Anirudh1103/Complete-Python/tree/main/Chapter%209">File Handling</a></td>
   </tr>
     <tr>
     <td>10</td>
@@ -64,7 +64,7 @@
     </tr>
     <tr>
     <td>14</td>
-    <td><a href="https://github.com/Anirudh1103/Complete-Python/tree/main/Chapter%209">Mini Project-1</a></td>
+    <td><a href="https://github.com/Anirudh1103/Complete-Python/tree/main/Chapter%210">Mini Project-1</a></td>
   </tr>
     </tr>
         <tr>
