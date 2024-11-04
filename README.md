@@ -75,4 +75,16 @@
     <td>15</td>
     <td><a href="">Major Project</a></td>
   </tr>
+  </tr>
+    <tr>
+    <td>16</td>
+    <td><a href="">Python Libraries</a></td>
+    <ol>
+    <li>NumPy</li>
+    <li>Pandas</li>
+    <li>Matplotlib</li>
+    <li>Seaborn</li>
+    <li>Scikit-learn</li>
+    </ol>
+  </tr>
 </table>
